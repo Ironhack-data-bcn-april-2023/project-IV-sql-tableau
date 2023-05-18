@@ -6,7 +6,6 @@ In this project, you will practice:
 
 - Extraction
 - SQL
-- NLTK (sentiment analysis)
 - Tableau
 
 
@@ -45,7 +44,6 @@ In this project, you will practice:
 
 - ETL
 - EDA
-- Analysis of text
 - Visualization using Tableau
 
 ## Deliverables
@@ -66,7 +64,7 @@ In this project, you will practice:
 - Link to Tableau dashboard
 
 
-## Links - NLP & Text Sentiment Analysisç
+## Links - NLP & Text Sentiment Analysis
 
 - [nltk](https://www.nltk.org/)
 - [Towards data science - Srntiment analysis using nltk](https://towardsdatascience.com/basic-binary-sentiment-analysis-using-nltk-c94ba17ae386)
