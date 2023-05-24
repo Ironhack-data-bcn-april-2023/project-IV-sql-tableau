@@ -1,7 +1,7 @@
 
 
 
-# Retail Project: A throughout Product, Sales and Marketing overview.
+# Retail Project: A throughout Product, Sales and Marketing overview 📊
 
 ![iron](https://imageio.forbes.com/specials-images/imageserve/5fb20cea5764e0806374bb73/The-5-Biggest-Retail-Trends-In-2021/960x0.jpg?format=jpg&width=960)
 
@@ -25,10 +25,10 @@
 
 [Tableau](https://public.tableau.com/app/profile/miguel.palos.pou/viz/sales_16847743934250/Story1?publish=yes)
 
-![pic1](./pic1.png)
-![pic2](./pic2.png)
-![pic3](./pic3.png)
-![pic4](./pic4.png)
+![pic1](img/pic1.png)
+![pic2](img/pic2.png)
+![pic3](img/pic3.png)
+![pic4](img/pic4.png)
 
 
 

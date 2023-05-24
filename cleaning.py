@@ -1,5 +1,7 @@
 import pandas as pd
 
+# This function performs multiple transformations to clean the data.
+
 def cleaning(df):
     df=df.drop('Column1', axis=1)
     df["Date"]= pd.to_datetime(df[ "Date"])
