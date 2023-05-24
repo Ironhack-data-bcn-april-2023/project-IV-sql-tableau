@@ -23,6 +23,10 @@ The "Sales Data for Economic Data Analysis" dataset was retrieved from Kaggle. A
 - Segmentation (M/F) and age.
 - Real-time KPI tracking dashboard to analyze company performance.
 
+## Tech Stack
+- The dataset was extracted and cleaned through Python
+- Data consultation was done through Python SQL. SQL views were created in order to speed up data retrieving.
+- Dashboards were created through Tableau
 
 ### Results:
 
