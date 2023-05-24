@@ -1,71 +1,47 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
-**Description:**
-
-In this project, you will practice:
-
-- Extraction
-- SQL
-- Tableau
 
 
+<<<<<<< HEAD
 
-0. Think of some questions you want to find a response to: the average rating for a given genre of movies on IMDB and their description, the average sentiment of a twitter username across time, the reviews for given categories of products are greater than other categories....whatever comes to mind. Make some questions before starting the process
+# Retail Project: A throughout Product, Sales and Marketing overview 📊
+=======
+# Retail Project: A thorough Product, Sales and Marketing Analysis
+>>>>>>> c14afe4de718af065cc6eb0be4f26485c18cb4c2
 
-1. Find data. This can be: hotel reviews, tweets, lines per character in a TV show, dialogues from a book, whatsapp/telegram/tinder conversations, etc. Whatever, really!
+![iron](https://imageio.forbes.com/specials-images/imageserve/5fb20cea5764e0806374bb73/The-5-Biggest-Retail-Trends-In-2021/960x0.jpg?format=jpg&width=960)
 
-2. The data can be scrapped or obtained through an API, but it doesn't need to be. You can also look for csv files.
+## Project Description
 
-3. Clean and transform your data.
+As a consulting firm,  we will analyze the current state of the sales of a retail chain across multiple sites, products and months. The goal is to provide valuable insights in order to make crucial business decisions. The company is going through a bad financial situation and needs to cut costs somehow. They have asked us to make some decisive decisions for the company to move forward.
 
-4. Load the data you obtain into SQL. Do this through Python if possible. Do you want to make it relational? Do you have things like: users, chats & messages? characters, episodes & seasons? Does it make sense to make it relational? Just one table? Define a DB diagram that makes sense. You may encounter some errors while inserting, as text can be tricky since it takes different formats. You will either have to: not do anything (data will be formatted well enough) or transform it using Python or outside of Python.
+## Dataset
 
-5. Now you have a clean database. Do queries and subqueries if you can.
-
-6. Use another source of data so you can have more detailed analysis. You can just relate it semantically. This will help you generate Tableau visualizations.
-
-7. Generate a Tableau dashboard with the insights you found.
-
-
-
-# STEPS
-1. Extract data
-2. Transform it through Python
-3. Add another source of info if needed
-4. Load that data into SQL through Python & SQL
-
-5. Try to answer as many questions as you can by running SQL queries through Python: aggregations, averages, comparisons, filtered data, etc
-6. Export the result of those queries as csv files
-
-7. On Tableau, create stories/dashboards.
-8. Include your csv files from the queries & the original csv without it being queried too so you can have more visualizations
-
-## Project Goals
-
-- ETL
-- EDA
-- Visualization using Tableau
-
-## Deliverables
-  
-- Python files
-  - Modularization
-  - Documented & organized code: docstrings, comments, etc
-
-- SQL file
-  - In this file you should gather all the SQL questions that describe your data.
-    - Description of central tendency of your variables per groups
-    - Frequencies
-    - Percentages of a given category
-    - Group things with conditions 
-      - Same things from another table?
-    - Be creative! What questions would you have about this data if you were the owner of a company? Write as many meaningful queries as you can!
-  
-- Link to Tableau dashboard
+The "Sales Data for Economic Data Analysis" dataset was retrieved from Kaggle. A comprehensive view of sales transactions.
+- The dataset contains information about sales transactions, including details such as the customer's age, gender, location, and the products sold.
+- The dataset includes data on both the cost of the product and the revenue generated from its sale, allowing for calculations of profit and profit margins.
 
 
-## Links - NLP & Text Sentiment Analysis
+## Metrics to analyze:
 
-- [nltk](https://www.nltk.org/)
-- [Towards data science - Srntiment analysis using nltk](https://towardsdatascience.com/basic-binary-sentiment-analysis-using-nltk-c94ba17ae386)
-- [Digital ocean: performing sentiment analysis](https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk)
+- profit and profit margins from the cost of the product and the revenue generated from its sale.
+- volume of products sold, which could be used to analyze sales trends over time.
+- purchasing behavior across different demographic groups
+- Segmentation (M/F) and age.
+- Real-time KPI tracking dashboard to analyze company performance.
+
+## Tech Stack
+- The dataset was extracted and cleaned through Python
+- Data consultation was done through Python SQL. SQL views were created in order to speed up data retrieving.
+- Dashboards were created through Tableau
+
+### Results:
+
+[Tableau](https://public.tableau.com/app/profile/miguel.palos.pou/viz/sales_16847743934250/Story1?publish=yes)
+
+![pic1](img/pic1.png)
+![pic2](img/pic2.png)
+![pic3](img/pic3.png)
+![pic4](img/pic4.png)
+
+
+
+
