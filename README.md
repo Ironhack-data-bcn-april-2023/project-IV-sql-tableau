@@ -1,71 +1,33 @@
-![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
-
-**Description:**
-
-In this project, you will practice:
-
-- Extraction
-- SQL
-- Tableau
 
 
 
-0. Think of some questions you want to find a response to: the average rating for a given genre of movies on IMDB and their description, the average sentiment of a twitter username across time, the reviews for given categories of products are greater than other categories....whatever comes to mind. Make some questions before starting the process
+# Retail Project: A throughout Product, Sales and Marketing overview.
 
-1. Find data. This can be: hotel reviews, tweets, lines per character in a TV show, dialogues from a book, whatsapp/telegram/tinder conversations, etc. Whatever, really!
-
-2. The data can be scrapped or obtained through an API, but it doesn't need to be. You can also look for csv files.
-
-3. Clean and transform your data.
-
-4. Load the data you obtain into SQL. Do this through Python if possible. Do you want to make it relational? Do you have things like: users, chats & messages? characters, episodes & seasons? Does it make sense to make it relational? Just one table? Define a DB diagram that makes sense. You may encounter some errors while inserting, as text can be tricky since it takes different formats. You will either have to: not do anything (data will be formatted well enough) or transform it using Python or outside of Python.
-
-5. Now you have a clean database. Do queries and subqueries if you can.
-
-6. Use another source of data so you can have more detailed analysis. You can just relate it semantically. This will help you generate Tableau visualizations.
-
-7. Generate a Tableau dashboard with the insights you found.
+![iron](https://imageio.forbes.com/specials-images/imageserve/5fb20cea5764e0806374bb73/The-5-Biggest-Retail-Trends-In-2021/960x0.jpg?format=jpg&width=960)
 
 
 
-# STEPS
-1. Extract data
-2. Transform it through Python
-3. Add another source of info if needed
-4. Load that data into SQL through Python & SQL
+## As a consulting firm, in this projects we will be analysis the current state of the sales of a retail chain across multiple sites, products and months. The goal is to provide valuable insights in order to make crucial business decisions. 
 
-5. Try to answer as many questions as you can by running SQL queries through Python: aggregations, averages, comparisons, filtered data, etc
-6. Export the result of those queries as csv files
-
-7. On Tableau, create stories/dashboards.
-8. Include your csv files from the queries & the original csv without it being queried too so you can have more visualizations
-
-## Project Goals
-
-- ETL
-- EDA
-- Visualization using Tableau
-
-## Deliverables
-  
-- Python files
-  - Modularization
-  - Documented & organized code: docstrings, comments, etc
-
-- SQL file
-  - In this file you should gather all the SQL questions that describe your data.
-    - Description of central tendency of your variables per groups
-    - Frequencies
-    - Percentages of a given category
-    - Group things with conditions 
-      - Same things from another table?
-    - Be creative! What questions would you have about this data if you were the owner of a company? Write as many meaningful queries as you can!
-  
-- Link to Tableau dashboard
+### The company is going through a bad financial situation and needs to cut costs somehow. They have asked us to make some decisive decision for the company to move forward.
 
 
-## Links - NLP & Text Sentiment Analysis
+#### Metrics to analyze:
 
-- [nltk](https://www.nltk.org/)
-- [Towards data science - Srntiment analysis using nltk](https://towardsdatascience.com/basic-binary-sentiment-analysis-using-nltk-c94ba17ae386)
-- [Digital ocean: performing sentiment analysis](https://www.digitalocean.com/community/tutorials/how-to-perform-sentiment-analysis-in-python-3-using-the-natural-language-toolkit-nltk)
+- profit and profit margins from the cost of the product and the revenue generated from its sale.
+- volume of products sold, which could be used to analyze sales trends over time.
+- purchasing behavior across different demographic groups
+- Segmentation (M/F) and age.
+- Real-time KPI tracking dashboard to analyze company performance.
+
+
+### Results: 
+
+![pic1]/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.12.48.png
+![pic2]/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.13.12.png
+![pic3]/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.13.39.png
+![pic4]/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.15.23.png
+
+
+
+
