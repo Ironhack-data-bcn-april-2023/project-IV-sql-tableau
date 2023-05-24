@@ -25,10 +25,10 @@
 
 [Tableau](https://public.tableau.com/app/profile/miguel.palos.pou/viz/sales_16847743934250/Story1?publish=yes)
 
-![pic1](Macintosh HD/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.12.48.png)
-![pic2](Macintosh HD/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.13.12.png)
-![pic3](Macintosh HD/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.13.39.png)
-![pic4](Macintosh HD/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.15.23.png)
+![pic1](./pic1.png)
+![pic2](./pic2.png)
+![pic3](./pic3.png)
+![pic4](./pic4.png)
 
 
 
