@@ -6,7 +6,7 @@
 
 ## Project Description
 
-As a consulting firm,  we will be analyze the current state of the sales of a retail chain across multiple sites, products and months. The goal is to provide valuable insights in order to make crucial business decisions. The company is going through a bad financial situation and needs to cut costs somehow. They have asked us to make some decisive decisions for the company to move forward.
+As a consulting firm,  we will analyze the current state of the sales of a retail chain across multiple sites, products and months. The goal is to provide valuable insights in order to make crucial business decisions. The company is going through a bad financial situation and needs to cut costs somehow. They have asked us to make some decisive decisions for the company to move forward.
 
 ## Dataset
 
