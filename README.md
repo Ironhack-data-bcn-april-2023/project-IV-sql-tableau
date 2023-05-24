@@ -1,11 +1,6 @@
 
-
-<<<<<<< HEAD
-
 # Retail Project: A throughout Product, Sales and Marketing overview 📊
-=======
-# Retail Project: A thorough Product, Sales and Marketing Analysis
->>>>>>> c14afe4de718af065cc6eb0be4f26485c18cb4c2
+
 
 ![iron](https://imageio.forbes.com/specials-images/imageserve/5fb20cea5764e0806374bb73/The-5-Biggest-Retail-Trends-In-2021/960x0.jpg?format=jpg&width=960)
 
