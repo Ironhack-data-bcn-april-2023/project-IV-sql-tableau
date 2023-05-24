@@ -1,15 +1,15 @@
 
 
 
-# Retail Project: A throughout Product, Sales and Marketing overview.
+# Retail Project: A thorough Product, Sales and Marketing Analysis
 
 ![iron](https://imageio.forbes.com/specials-images/imageserve/5fb20cea5764e0806374bb73/The-5-Biggest-Retail-Trends-In-2021/960x0.jpg?format=jpg&width=960)
 
 
 
-## As a consulting firm, in this projects we will be analysis the current state of the sales of a retail chain across multiple sites, products and months. The goal is to provide valuable insights in order to make crucial business decisions. 
+## As a consulting firm, in this projects we will be analyze the current state of the sales of a retail chain across multiple sites, products and months. The goal is to provide valuable insights in order to make crucial business decisions. 
 
-### The company is going through a bad financial situation and needs to cut costs somehow. They have asked us to make some decisive decision for the company to move forward.
+### The company is going through a bad financial situation and needs to cut costs somehow. They have asked us to make some decisive decisions for the company to move forward.
 
 
 #### Metrics to analyze:
