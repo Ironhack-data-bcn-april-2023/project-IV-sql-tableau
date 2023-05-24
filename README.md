@@ -21,12 +21,14 @@
 - Real-time KPI tracking dashboard to analyze company performance.
 
 
-### Results: 
+### Results:
 
-![pic1]/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.12.48.png
-![pic2]/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.13.12.png
-![pic3]/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.13.39.png
-![pic4]/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.15.23.png
+[Tableau](https://public.tableau.com/app/profile/miguel.palos.pou/viz/sales_16847743934250/Story1?publish=yes)
+
+![pic1](/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.12.48.png)
+![pic2](/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.13.12.png)
+![pic3](/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.13.39.png)
+![pic4](/Users/miguelpalospou/Desktop/Screen Shot 2023-05-24 at 14.15.23.png)
 
 
 
